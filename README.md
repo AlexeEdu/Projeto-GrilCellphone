@@ -3,7 +3,7 @@
 
 <h3>Gostaria de compartilhar mais um projeto, seguindo a orientação do Professor Rodolfo Mori no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h3>
 
-<P>Alem de Usar as tecnologias HTML, CSS tambem foi feito na responsividade visando o uso em várias telas</P>
+<P>Alem de Usar as tecnologias HTML e CSS tambem foi feito na responsividade para o uso em várias telas</P>
 
 
 <p>Tecnologias utilizadas:</p>
@@ -12,4 +12,6 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
  
 
-  <img src="">
+  <img src="https://github.com/AlexeEdu/Projeto-GrilCellphone/blob/main/assets/sitegrill-cellphone.png?raw=true" alt="imagem-site">
+
+  <p>:heavy_check_mark: Netlify: <a href="" ></a>  </p>
