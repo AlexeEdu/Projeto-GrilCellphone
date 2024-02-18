@@ -1,8 +1,7 @@
 <h1 align="center">Grill Cellphone</h1>
 
 
-<h3>Gostaria de compartilhar mais um projeto, seguindo a orientação do Professor Rodolfo Mori pela plataforma Dev Club. 
-<a href="https://rodolfomori.com.br/devclub">DevClub</a></h3>
+<h3>Gostaria de compartilhar mais um projeto, seguindo a orientação do Professor Rodolfo Mori no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h3>
 
 <P>Alem de Usar as tecnologias HTML, CSS tambem foi feito na responsividade visando o uso em várias telas</P>
 
