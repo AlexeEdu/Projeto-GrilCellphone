@@ -14,4 +14,4 @@
 
   <img src="https://github.com/AlexeEdu/Projeto-GrilCellphone/blob/main/assets/sitegrill-cellphone.png?raw=true" alt="imagem-site">
 
-  <p>:heavy_check_mark: Netlify: <a href="" ></a>  </p>
+  <p>:heavy_check_mark: Netlify: <a href="https://grillcellphone.netlify.app/">Grillcellphone</a></p>
